@@ -1,7 +1,5 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://github.com/Fanibhusana/Face-Detection/assets/125716338/75201626-0171-4d75-a2b5-0bec0edf717a" alt="Your Name" width="200"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Fanibhusana 👋</h1>
 <p align="center">Passionate about coding, design, and creating remarkable digital experiences.</p>
