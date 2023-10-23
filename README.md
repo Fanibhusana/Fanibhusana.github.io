@@ -69,7 +69,7 @@ public class Fani
 
 ## 🚀 Super Cool Projects 🚀
 * * *
-[**Click me**](/another_page.md)&nbsp;**to access the project page.**
+[**Click me**](/another_page.md)&nbsp;to access the project page.
 
 
 <br>
