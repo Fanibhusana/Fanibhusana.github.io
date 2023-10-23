@@ -2,9 +2,12 @@
 <h1 align="center">👋 Hi, I'm Fanibhusana, Welcome to my Portfolio</h1>
 <br>
 
-<br>
 
-## 📚 About Me
+<p align="center">
+  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="500"/>
+</p>
+
+## 🧑 About Me
 * * *
 <!-- About Me -->
 <br>
@@ -35,6 +38,7 @@ public class Fani
 | CHSE, ODISHA     | **Bhargabi +2 Science College, Dhenkanal, Odisha**     | _2018 - 2020_      |
 
 <br>
+<br>
 
 ## 🧑‍💻  Training
 * * *
@@ -60,96 +64,40 @@ public class Fani
 - **Web Development:**  &nbsp; &nbsp;```HTML```
 - **Tools:**  &nbsp; &nbsp;```Visual Studio Code, Eclipse, Post Man, Git/GitHub, Dev C++, MySQL Workbench, WordPress```
 
+<br>
+<br>
 
-
-
-
-
-
-
-
-
-
+## 🚀 Super Cool Projects 🚀
+* * *
+[**Click me**](/another_page.md)&nbsp;**to access the project page.**
 
 
 <br>
 <br>
+
+##  🗂️ certifications
+* * *
+
+
 <br>
 <br>
 
-- 🌐 **[Project 1](https://github.com/Fanibhusana/Face-Detection)** - 📸 A Java project for detecting faces in images using OpenCV 🧑🔍.
-- 📷 **[Project 2](https://fanibhusana.github.io/)** - portfolio.
-- 🎮 **[Project 3](https://github.com/Fanibhusana/OIBSIP-Number-Guessing-Game)** - A fun and interactive game project.
-
-<!-- Contact Information -->
-## 📫 Contact Me
-Feel free to reach out to me via:</n>
-<p align="center"><img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/d74b742c-50b6-4984-b1d8-a3ff879d40c1" alt="Your Name" width="190"/>.</p>
- 
-<!-- Technologies I Love -->
-## 💖 Technologies I Love
+##  📫 Contact me
+* * *
+**Feel free to get in touch with me on LinkedIn, Facebook, and various other platforms via:** &nbsp; [**Linktree**](https://linktr.ee/fanibhusana)
+<br><br>
+_**If you have any queries, don't hesitate to write to me by scanning the QR code below.**_
+<p align="center"><img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/d74b742c-50b6-4984-b1d8-a3ff879d40c1" alt="Your Name" width="170"/>.</p>
 
 
-
-<!-- Footer -->
 <hr>
-<p align="center">Thanks for visiting my profile. Let's connect and create amazing projects together!</p>
+
+## 🙏 Thanks for visiting my Portfolio, Let's connect and create amazing projects together!
+
+<br>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/125716338/229711039-af5c5827-846b-46b2-970c-50648245f1d6.gif" width="400"/>
+  <img src="https://miro.medium.com/v2/resize:fit:828/1*lhOax3cZATGZwEhG0uTYRA.gif" width="400"/>
 </p>
 
-
-
-
-
-# 🚀 Super Cool Project: Project Name 🚀
-
-[Project Logo or Screenshot]
-
-🌟 Announcing the latest, greatest, and most amazing project you've ever seen! 🌟
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/your-project)](https://github.com/yourusername/your-project/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/your-project)](https://github.com/yourusername/your-project/stargazers)
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Introduction
-
-Provide a more detailed introduction to your project. Explain its purpose, what problem it solves, and why it's important. Mention any goals or objectives.
-
-## Features
-
-List the key features of your project. What can it do? Bullet points work well for this section.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Technologies
-
-Outline the technologies, libraries, and tools used in your project. This helps to showcase your skills and knowledge.
-
-- Technology 1
-- Technology 2
-- Technology 3
-
-## Installation
-
-Explain how to set up and install your project. Include any prerequisites or dependencies.
-
-```bash
-# Example installation commands
-git clone https://github.com/yourusername/your-project.git
-cd your-project
-npm install
+* * *
