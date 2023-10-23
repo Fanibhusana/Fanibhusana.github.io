@@ -1,25 +1,22 @@
 <!-- Profile Header -->
-
-
-<h1 align="center">Hi, I'm Fanibhusana 👋</h1>
-<p align="center">Passionate about coding, design, and creating remarkable digital experiences.</p>
-
-<!-- GitHub Stats and Social Links -->
-
-<p align="center">
-  <a href="https://fanibhusana.github.io/">Website</a> •
-  <a href="https://www.linkedin.com/in/fanibhusanamaharana">LinkedIn</a> 
-</p>
+<h1 align="center">👋 Hi, I'm Fanibhusana, Welcome to my Portfolio</h1>
 
 <!-- About Me -->
 ## 📚 About Me
 
-- 💻 Java Developer Intern with 6 month of experience.
-- 🌟 Specialized in Java Web App development.
-- 🚀 Passionate about technology and its potential to drive innovation.
-- 🎓 Lifelong learner, constantly exploring new technologies and trends.
-- 😄 Pronouns: He
+> I am a student at GIET, BBSR with a major in Computer Science. I have a passion for computer programming and information technology. This passion has given me the ability to develop programs for a multitude of  things, including programming languages, and databases.
+>
+> I am open to learning new things and getting involved with new projects that can help me learn or apply all that I have learned throughout my university career.
 
+```java
+public class Fani
+{
+  public static void main(String[] args)
+    {
+      System.out.println("I am JAVA Developer");
+    }
+}
+```
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
