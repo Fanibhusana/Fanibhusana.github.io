@@ -82,6 +82,17 @@ public class Fani
 ##  🗂️ certifications
 * * *
 
+  <img src="https://github.com/Fanibhusana/Cracking_The_Coding_Interview/assets/125716338/62ba28b0-ef11-4f1c-8792-e1c1085af309" width="400"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Fanibhusana/Cracking_The_Coding_Interview/assets/125716338/cc084cd9-9e8b-4059-8098-0aa41a343b7e" width="400"/> <br><br><br>
+  <img src="https://github.com/Fanibhusana/Cracking_The_Coding_Interview/assets/125716338/c23e4a29-e968-4f62-a420-241e1c515b47" width="400"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/Fanibhusana/Cracking_The_Coding_Interview/assets/125716338/310f358f-9536-4933-a332-45998be28ebc" width="400"/> <br><br><br>
+      <img src="https://github.com/Fanibhusana/Cracking_The_Coding_Interview/assets/125716338/9bb7b7b0-c080-4937-af27-3eefe331ea3a" width="400"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Fanibhusana/Cracking_The_Coding_Interview/assets/125716338/a2a1bdfe-4b3a-44e2-9aea-56401b05344f" width="400"/>  <br><br><br>
+      <img src="https://github.com/Fanibhusana/Cracking_The_Coding_Interview/assets/125716338/522a07e6-63fa-494a-904a-b4e34ae9bb51" width="400"/> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/Fanibhusana/Cracking_The_Coding_Interview/assets/125716338/cdd3ba03-41a6-4462-868e-78c69f1b9c12" width="400"/>
 
 <br>
 <br>
