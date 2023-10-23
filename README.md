@@ -1,24 +1,70 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Fanibhusana, Welcome to my Portfolio</h1>
+<br>
 
-<!-- About Me -->
+<br>
+
 ## 📚 About Me
+* * *
+<!-- About Me -->
+<br>
 
 > I am a student at GIET, BBSR with a major in Computer Science. I have a passion for computer programming and information technology. This passion has given me the ability to develop programs for a multitude of  things, including programming languages, and databases.
 >
 > I am open to learning new things and getting involved with new projects that can help me learn or apply all that I have learned throughout my university career.
+
+<br>
 
 ```java
 public class Fani
 {
   public static void main(String[] args)
     {
-      System.out.println("I am JAVA Developer");
+      System.out.println("I am a JAVA Developer");
     }
 }
 ```
-<!-- Featured Projects -->
-## 🚀 Featured Projects
+<br>
+
+## 📖  Education
+* * *
+
+| Board /University | Institute | Year |
+| :---:      |     :---:      |     :---:   |
+| BPUT, ODISHA   | **Gandhi Institute for Education & Technology, Bhubaneswar**     | _2020 - 2024_    |
+| CHSE, ODISHA     | **Bhargabi +2 Science College, Dhenkanal, Odisha**     | _2018 - 2020_      |
+
+<br>
+
+## 🧑‍💻  Training
+* * *
+**Java Full Stack Trainee** @ _JSpiders - Training & Development Center_
+<br>
+<br>
+
+## 🖥️  Work Experience
+* * *
+**Software Developer Intern** @ _**GAO Tek Inc.**_      ```May’23 - Aug’23 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
 
 - 🌐 **[Project 1](https://github.com/Fanibhusana/Face-Detection)** - 📸 A Java project for detecting faces in images using OpenCV 🧑🔍.
 - 📷 **[Project 2](https://fanibhusana.github.io/)** - portfolio.
