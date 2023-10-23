@@ -50,7 +50,7 @@ public class Fani
 <br>
 <br>
 
-## 🖥️  Work Experience
+## 💻  Work Experience
 * * *
 **Software Developer Intern**&nbsp;&nbsp; @ _**GAO Tek Inc.**_   &nbsp;&nbsp;&nbsp;&nbsp;   ```May’23 - Aug’23 ```
 *   Utilized AI for web content generation, boosting SEO and raising website traffic by 15%.
