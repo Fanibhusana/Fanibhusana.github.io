@@ -38,16 +38,27 @@ public class Fani
 
 ## 🧑‍💻  Training
 * * *
-**Java Full Stack Trainee** @ _JSpiders - Training & Development Center_
+**Java Full Stack Trainee**&nbsp; &nbsp; @ _JSpiders - Training & Development Center_
 <br>
 <br>
 
 ## 🖥️  Work Experience
 * * *
-**Software Developer Intern** @ _**GAO Tek Inc.**_      ```May’23 - Aug’23 ```
+**Software Developer Intern**&nbsp;&nbsp; @ _**GAO Tek Inc.**_   &nbsp;&nbsp;&nbsp;&nbsp;   ```May’23 - Aug’23 ```
+*   Utilized AI for web content generation, boosting SEO and raising website traffic by 15%.
+*   Designed visually appealing, user-friendly WordPress website using WPBakery, resulting in a 15% traffic boost.
 
+<br>
+<br>
 
-
+## 🖥️  Skills
+* * *
+- **Languages:** &nbsp; &nbsp; ``` Core Java, Advanced Java, C, JavaFX ```
+- **Frameworks:** &nbsp;&nbsp; ```Spring, SpringBoot```
+- **Database:**  &nbsp; &nbsp;```SQL, MySQL```
+- **Web Server:**  &nbsp; &nbsp; ```Apache tomcat```
+- **Web Development:**  &nbsp; &nbsp;```HTML```
+- **Tools:**  &nbsp; &nbsp;```Visual Studio Code, Eclipse, Post Man, Git/GitHub, Dev C++, MySQL Workbench, WordPress```
 
 
 
@@ -78,12 +89,7 @@ Feel free to reach out to me via:</n>
 <!-- Technologies I Love -->
 ## 💖 Technologies I Love
 
-- **Languages:** Java, Advanced Java, C, JavaFX
-- **Frameworks:** Spring, SpringBoot
-- **Database:** SQL, MySQL
-- **Web Server:** Apache tomcat
-- **Web Development:** HTML
-- **Tools:** Visual Studio Code, Eclipse, Git/GitHub, Dev C++, MySQL Workbench, WordPress
+
 
 <!-- Footer -->
 <hr>
