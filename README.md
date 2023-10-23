@@ -18,6 +18,10 @@
 
 <br>
 
+<p align="center">
+  <img src="https://github.com/Fanibhusana/Cracking_The_Coding_Interview/assets/125716338/3f3d44f2-4356-442d-acee-ac06d7ea99c2" width="200"/>
+</p>
+
 ```java
 public class Fani
 {
@@ -27,6 +31,7 @@ public class Fani
     }
 }
 ```
+
 <br>
 
 ## 📖  Education
