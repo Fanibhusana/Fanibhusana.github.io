@@ -16,8 +16,6 @@
 >
 > I am open to learning new things and getting involved with new projects that can help me learn or apply all that I have learned throughout my university career.
 
-<br>
-
 <p align="center">
   <img src="https://github.com/Fanibhusana/Cracking_The_Coding_Interview/assets/125716338/3f3d44f2-4356-442d-acee-ac06d7ea99c2" width="200"/>
 </p>
@@ -48,6 +46,7 @@ public class Fani
 ## 🧑‍💻  Training
 * * *
 **Java Full Stack Trainee**&nbsp; &nbsp; @ _JSpiders - Training & Development Center_
+
 <br>
 <br>
 
