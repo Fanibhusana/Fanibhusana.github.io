@@ -59,7 +59,7 @@ public class Fani
 * * *
 * * *
 
-**Software Developer Intern**&nbsp;&nbsp; @ _**GAO Tek Inc.**_   &nbsp;&nbsp;&nbsp;&nbsp;   ```May’23 - Aug’23 ```
+**Software Developer Intern**&nbsp;&nbsp; @ _GAO Tek Inc._   &nbsp;&nbsp;&nbsp;&nbsp;   ```May’23 - Aug’23 ```
 *   Utilized AI for web content generation, boosting SEO and raising website traffic by 15%.
 *   Designed visually appealing, user-friendly WordPress website using WPBakery, resulting in a 15% traffic boost.
 
@@ -113,7 +113,7 @@ public class Fani
 Feel free to get in touch with me on LinkedIn, Facebook, and various other platforms via: &nbsp; [**Linktree**  _Click me_](https://linktr.ee/fanibhusana)
 
 <br><br>
-_**If you have any queries, don't hesitate to write to me by scanning the QR code below.**_
+_If you have any queries, don't hesitate to write to me by scanning the_ **QR code** _below._
 <p align="center"><img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/d74b742c-50b6-4984-b1d8-a3ff879d40c1" alt="Your Name" width="170"/>.</p>
 
 * * *
