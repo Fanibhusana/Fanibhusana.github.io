@@ -110,7 +110,8 @@ public class Fani
 ##  📫 Contact me
 * * *
 * * *
-**Feel free to get in touch with me on LinkedIn, Facebook, and various other platforms via:** &nbsp; [**Linktree**](https://linktr.ee/fanibhusana)
+Feel free to get in touch with me on LinkedIn, Facebook, and various other platforms via: &nbsp; [**Linktree**  _Click me_](https://linktr.ee/fanibhusana)
+
 <br><br>
 _**If you have any queries, don't hesitate to write to me by scanning the QR code below.**_
 <p align="center"><img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/d74b742c-50b6-4984-b1d8-a3ff879d40c1" alt="Your Name" width="170"/>.</p>
@@ -118,7 +119,7 @@ _**If you have any queries, don't hesitate to write to me by scanning the QR cod
 * * *
 <hr>
 
-## 🙌 Thanks for visiting my Portfolio, Let's connect and create amazing projects together!
+### 🙌 Thanks for visiting my Portfolio, Let's connect and create amazing projects together!
 
 <br>
 
