@@ -57,17 +57,17 @@ Manage your organization's workforce with ease using our powerful Employee Manag
 
 ### 🌟 Features
 
-- 📷 Load an image. 
-- 👤 Detect faces using OpenCV. 
-- ✍️ Draw rectangles around detected faces. 
-- 💾 Save the result as a new image.
+-  📷 Load an image. 
+-  👤 Detect faces using OpenCV. 
+-  ✍️ Draw rectangles around detected faces. 
+-  💾 Save the result as a new image.
 
 
-### 🛠️ Tools and Technologies
+###  🛠️ Tools and Technologies
 
-- ☕️ Java Development Kit (JDK): 
-- 📷 OpenCV for Java: 
-- 💻 Your favorite Java IDE: 
+-  ☕️ Java Development Kit (JDK): 
+-  📷 OpenCV for Java: 
+-  💻 Your favorite Java IDE: 
 
 
 🖱️[**Click me**](https://github.com/Fanibhusana/Face-Detection.git)&nbsp;to access the project.
