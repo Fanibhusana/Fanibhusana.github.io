@@ -82,10 +82,7 @@ public class Fani
 ## 🚀 Super Cool Projects 🚀
 * * *
 * * *
--  👨‍💼 Employee-Management-System-REST_API&nbsp;[**Click me**](/p1.md)&nbsp;to access the project webpage.
--  👁️ Face-Detection&nbsp;[**Click me**](/p2.md)&nbsp;to access the project webpage.
--  🏧 ATM Machine&nbsp;[**Click me**](/p3.md)&nbsp;to access the project webpage.
--  📊 BMI_Calculator&nbsp;[**Click me**](/p4.md)&nbsp;to access the project webpage.
+[**Click me**](/p1.md)&nbsp;to access the project webpage.
 
 
 <br>
