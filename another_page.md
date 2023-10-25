@@ -56,6 +56,7 @@ Manage your organization's workforce with ease using our powerful Employee Manag
 📸 A Java project for detecting faces in images using OpenCV 🧑🔍
 
 
+### 🌟 Features
 
 - 📷 Load an image. 
 - 👤 Detect faces using OpenCV. 
@@ -75,16 +76,17 @@ Manage your organization's workforce with ease using our powerful Employee Manag
 
 ##  3. ATM-Machine Project
 * * *
+
 A project that simulates the functionality of an Automated Teller Machine (ATM). It allows users to perform various financial transactions conveniently.
 
 ### 🌟 Features
 
-#### 🚀 **User Authentication**
+#### 🚀 User Authentication
 
 - **Get Started**: 🌟 Begin by entering your unique ID and PIN.
 - **Oops, Wrong PIN?**: 😬 If you happen to enter the wrong PIN, don't sweat it! You have three chances to get it right. 🎯
 
-#### 💰 **Available Options**
+#### 💰 Available Options
 
 Choose from a variety of exciting options:
 
@@ -95,7 +97,7 @@ Choose from a variety of exciting options:
 - **Transfer**: 🔄 Swiftly transfer money between accounts and help your loved ones when they need it most.
 - **Quit**: 🏁 When you're done, exit the ATM interface with a single click and proceed with your day. 
 
-#### ⌛ **Seamless Operations**
+#### ⌛ Seamless Operations
 
 Select an option, and watch the magic unfold. Our project empowers you to complete your transactions quickly and efficiently, making banking a breeze. ✨
 
