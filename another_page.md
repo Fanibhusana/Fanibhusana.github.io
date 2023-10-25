@@ -9,8 +9,7 @@
 ##  1. Employee Management System REST API
 * * *
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg"alt="Logo" width="150" height="150">
-</p>
+  <img src="https://github.com/Fanibhusana/Cracking_The_Coding_Interview/assets/125716338/e0042d57-e8e0-4ae1-9d98-4e00859818a1" width="100"/> </p>
 <h3 align="center">Employee Management System REST API</h3>
 Manage your organization's workforce with ease using our powerful Employee Management System REST API. Streamline employee data management, access advanced analytics, and boost productivity.
 
